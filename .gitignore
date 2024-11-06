@@ -22,3 +22,5 @@
 
 *.pid
 pom.xml.versionsBackup
+
+/out

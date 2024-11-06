@@ -1,0 +1,12 @@
+packageName=
+appName=
+apkPath=
+shortDescription=
+description=
+releaseNotes=
+#baseType = N: normal app / P: parameter app
+baseType=
+#separate by comma path1,path2,path3
+categoriesArray=
+modelsArray=
+templatesPathArray=
